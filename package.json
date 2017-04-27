@@ -1,0 +1,21 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "~4.6.1",
+    "npm": "~2.15.9"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.6",
+    "node-bing-api": "^3.2.1"
+  }
+}
